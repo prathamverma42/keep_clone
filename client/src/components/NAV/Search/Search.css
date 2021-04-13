@@ -1,0 +1,13 @@
+.search{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+    width: 20%;
+    height: 30px;
+    /* flex: 1; */
+    margin-left: 2%;
+    /* background-color: green; */
+}
+.search-icon{
+    
+}

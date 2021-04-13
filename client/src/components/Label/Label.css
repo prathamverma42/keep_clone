@@ -1,0 +1,24 @@
+.body{
+    width: 15%;
+    float: left;
+    /* left: 0; */
+    /* position: sticky; */
+    /* top: 150px; */
+    margin-top: 3%;
+    height: 600px;
+    line-height: 70px;
+    border-radius: 2px solid red;
+    border-radius: 5%;
+    box-shadow: 3px 2px 4px black;
+    font-size: 28px;
+    /* padding-left: 40px; */
+    
+}
+
+li{
+    list-style: none;
+}
+li:hover{
+    background-color: #FBBC04;
+    color: black;
+}

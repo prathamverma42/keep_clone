@@ -1,0 +1,11 @@
+.card{
+    width: 180px;
+    height: 300px;
+    box-shadow: 2px 2px 2px grey;
+    float: left;
+    margin: 20px;
+}
+.card_title{
+    font-size: 40px;
+    font-weight: 600;
+}

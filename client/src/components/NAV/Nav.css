@@ -1,0 +1,10 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    /* width: 100%; */
+    align-items: center;
+    height: 60px;
+    position: sticky;
+    background-color: #F2F2F2;
+}
